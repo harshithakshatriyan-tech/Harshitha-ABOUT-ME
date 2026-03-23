@@ -26,9 +26,9 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=harshithakshatriyan-tech&show_icons=true)
 
 ---
 
 ## 🔥 Streak
-![streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![streak](https://streak-stats.demolab.com/?user=harshithakshatriyan-tech)
