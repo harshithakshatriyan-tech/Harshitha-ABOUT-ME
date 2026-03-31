@@ -66,8 +66,8 @@
 ---
 
 ## 🤝 Connect With Me  
-- 💼 LinkedIn: *(Add your link here)*  
-- 📧 Email: *(Add your email here)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/harshithavk/)*  
+- 📧 Email: *(harshithakshatriyan@gmail.com)*  
 
 ---
 
